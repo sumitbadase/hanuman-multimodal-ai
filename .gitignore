@@ -1,0 +1,21 @@
+# Environment variables
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Model / ML cache
+*.pt
+*.bin
+
+# Logs
+*.log
